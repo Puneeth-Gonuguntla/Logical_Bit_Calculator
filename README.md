@@ -1,5 +1,3 @@
-Here’s a well-structured `README.md` file for your **Logical Bit Calculator** project:
-
 ---
 
 # Logical Bit Calculator
