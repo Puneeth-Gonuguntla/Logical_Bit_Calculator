@@ -2,7 +2,7 @@
 
 # Logical Bit Calculator 🧮
 
-**CS50 Final Project – Advanced Binary Logic Simulation**
+## CS50 Final Project – Advanced Binary Logic Simulation**
 
 The Logical Bit Calculator is an advanced Python-based application that simulates the behavior of fundamental logic gates. It’s designed to demonstrate core computational concepts while offering robust testing and extensibility for future enhancements. The project is ideal for enthusiasts, students, and developers working in digital logic, hardware simulation, or theoretical computation.
 
@@ -149,37 +149,3 @@ This project is designed for extensibility. Below are some ideas for enhancement
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions to enhance the Logical Bit Calculator. Follow these steps to contribute:
-1. Fork this repository.
-2. Create a feature branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m "Add feature-name"
-    ```
-4. Push your changes and create a pull request:
-    ```bash
-    git push origin feature-name
-    ```
-
----
-
-## 🛡️ License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Support
-
-For any queries, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub Issues**: [Submit an Issue](https://github.com/your-username/logical-bit-calculator/issues)
-
----
-
-This advanced README.md not only documents your project but also provides insights into its extensibility, use cases, and technical foundations. Let me know if you’d like to refine it further!
