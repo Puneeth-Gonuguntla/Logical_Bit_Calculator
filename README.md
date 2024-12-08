@@ -62,12 +62,9 @@ The `test_project.py` script uses assertions to validate the behavior of each lo
     source env/bin/activate  # For Windows: env\Scripts\activate
     ```
 
-3. Install dependencies (if any):
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-### **Running the Application**
+
+### **Run the Application**
 Start the Logical Bit Calculator:
 ```bash
 python project.py
